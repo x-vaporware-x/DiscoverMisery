@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/mesh_suelo.obj-b474243269d7af4e7862b601c3a100c2.mesh"
+
+[deps]
+
+files=[ "res://.import/mesh_suelo.obj-b474243269d7af4e7862b601c3a100c2.mesh" ]
+
+source_file="res://models/suelo/mesh_suelo.obj"
+dest_files=[ "res://.import/mesh_suelo.obj-b474243269d7af4e7862b601c3a100c2.mesh", "res://.import/mesh_suelo.obj-b474243269d7af4e7862b601c3a100c2.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
