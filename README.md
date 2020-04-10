@@ -6,6 +6,7 @@ Videojuego sin ningún tipo de dirección ni planes en el que puede participar c
   <img width="600" height="376" src="https://i.imgur.com/BKJ2XHi.gif">
 </p>
 
+Prueba la versión para navegador [aquí](https://x-vaporware-x.github.io/DiscoverMisery/) (aunque puede no estar actualizada). 
 ## ¿Qué necesito?
 
 Simplemente descargar e instalar [Godot](https://godotengine.org/download/) (aproximadamente 50MB), clonar el repositorio y ya está.
