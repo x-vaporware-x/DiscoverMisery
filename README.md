@@ -2,6 +2,10 @@
 
 Videojuego sin ningún tipo de dirección ni planes en el que puede participar cualquiera que quiera unirse.
 
+<p align="center">
+  <img width="600" height="376" src="https://i.imgur.com/BKJ2XHi.gif">
+</p>
+
 ## ¿Qué necesito?
 
 Simplemente descargar e instalar [Godot](https://godotengine.org/download/) (aproximadamente 50MB), clonar el repositorio y ya está.
