@@ -19,6 +19,7 @@ const DEACCEL=6
 
 var jump_height=15
 
+var mouseGrabbed=false
 # Called when the node enters the scene tree for the first time.
 func _ready():
 	pass # Replace with function body.
@@ -31,6 +32,13 @@ func _physics_process(delta):
 		walk(delta)
 	
 func _input(event):
+	if Input.is_action_just_pressed("grab_mouse"):
+			if mouseGrabbed:
+				Input.set_mouse_mode(Input.MOUSE_MODE_VISIBLE)
+				mouseGrabbed=false
+			else:
+				Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
+				mouseGrabbed=true
 	if event is InputEventMouseMotion:
 		camera_change=event.relative
 
