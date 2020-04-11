@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/persona1.obj-94b170e5b6ec9bb3060a2486370fda46.mesh"
+
+[deps]
+
+files=[ "res://.import/persona1.obj-94b170e5b6ec9bb3060a2486370fda46.mesh" ]
+
+source_file="res://models/persona1/persona1.obj"
+dest_files=[ "res://.import/persona1.obj-94b170e5b6ec9bb3060a2486370fda46.mesh", "res://.import/persona1.obj-94b170e5b6ec9bb3060a2486370fda46.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

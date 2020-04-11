@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/casa.obj-b79f370b9f20e1056910d63f1939285c.mesh"
+
+[deps]
+
+files=[ "res://.import/casa.obj-b79f370b9f20e1056910d63f1939285c.mesh" ]
+
+source_file="res://models/casa/casa.obj"
+dest_files=[ "res://.import/casa.obj-b79f370b9f20e1056910d63f1939285c.mesh", "res://.import/casa.obj-b79f370b9f20e1056910d63f1939285c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
