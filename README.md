@@ -3,7 +3,7 @@
 Videojuego sin ningún tipo de dirección ni planes en el que puede participar cualquiera que quiera unirse.
 
 <p align="center">
-  <img width="600" height="376" src="https://i.imgur.com/BKJ2XHi.gif">
+  <img width="600" height="376" src="https://i.imgur.com/BT9FCPo.gif">
 </p>
 
 Prueba la versión para navegador [aquí](https://x-vaporware-x.github.io/DiscoverMisery/) (aunque puede no estar actualizada). 
